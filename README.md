@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm **Hikal Putra** 🚀
+# 👋 Hi, I'm **Julianda Putra (Julian)** 🚀
 
 🎓 **Mathematics Undergraduate Student**
-💻 **Backend • Data • Machine Learning Enthusiast**
-📍 Indonesia
+💻 **Backend Developer & AI Enthusiast**
+📍 Makassar, Indonesia
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Data+%26+Machine+Learning+Enthusiast;Math+%2B+Code+Problem+Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Engineer+(Go);Machine+Learning+Explorer;Math+%2B+Code+Problem+Solver" />
 
 </div>
 
@@ -14,8 +14,8 @@
 
 ## 🧠 About Me
 
-Saya adalah mahasiswa **S1 Matematika** yang memiliki minat besar pada **pemrograman dan pengolahan data**.
-Saya senang membangun sistem backend, menganalisis data, serta menerapkan algoritma machine learning untuk menyelesaikan masalah nyata.
+Saya adalah mahasiswa **S1 Matematika** yang memiliki minat besar pada **pemrograman web dan membuat model machine learning**.
+Saya sekarang sedang belajar dan fokus dengan membangun sistem backend serta menerapkan algoritma machine learning untuk menyelesaikan masalah nyata. 
 
 🔹 Strong di **logika & problem solving**
 🔹 Terbiasa mengerjakan **project terstruktur & scalable**
@@ -31,6 +31,10 @@ Saya senang membangun sistem backend, menganalisis data, serta menerapkan algori
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Framework
+![GORM](https://img.shields.io/badge/GORM-3776AB?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-525252?style=for-the-badge&logo=gin&logoColor=white)
 
 ### 🌐 Backend & Web
 
@@ -54,7 +58,7 @@ Saya senang membangun sistem backend, menganalisis data, serta menerapkan algori
 
 ## 🚀 Featured Projects
 
-### 📦 Inventory Management System (Golang)
+### 📦 Inventory Management System 
 
 🔹 Backend system menggunakan **Clean Architecture (Repository–Service–Handler)**
 🔹 Unit testing & PostgreSQL integration
@@ -63,20 +67,19 @@ Saya senang membangun sistem backend, menganalisis data, serta menerapkan algori
 
 ---
 
-### 📊 Stunting Risk Prediction
+### System Ticket Bioskop 
 
-🔹 Prediksi risiko stunting menggunakan **Random Forest & XGBoost**
-🔹 Data preprocessing, training, evaluasi model
+aplikasi Cinema Booking System berbasis RESTful API menggunakan bahasa pemrograman Golang. Aplikasi ini bertujuan untuk membantu pengguna (customer) dalam melakukan pendaftaran akun, login, memilih bioskop, mengecek ketersediaan kursi, melakukan pemesanan kursi, serta melakukan pembayaran tiket.
 
-**Tech:** Python, Scikit-Learn, Pandas
+**Tech:**  Go, PostgreSQL, REST API
 
 ---
 
-### 🌐 Personal Web Portfolio
+### 🌐 Aplikasi Point Of Sale
 
-🔹 Website portofolio modern dengan animasi interaktif
+aplikasi Point of Sales (POS) App berbasis RESTful API menggunakan bahasa pemrograman Golang. Aplikasi ini dirancang untuk membantu toko atau restoran dalam mengelola data staf, menu makanan/minuman, pemesanan, serta pelacakan penjualan dasar.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech:**  Go, PostgreSQL, REST API, GIN
 
 ---
 
